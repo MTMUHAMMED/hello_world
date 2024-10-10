@@ -1,6 +1,6 @@
 #Practical 1 ----
 # GRAPH Course on Git and Github
-print("Goodnight Moon")
+print("HELLO WORLD")
 
 # Practice makes perfect!
 
